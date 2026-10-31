@@ -118,7 +118,7 @@
             android:padding="@dimen/video_ctrl_icon_padding"
             android:scaleType="centerInside"
             android:src="@drawable/ic_skip_previous"
-            android:tint="#FFFFFFFF"
+            app:tint="#FFFFFFFF"
             app:layout_constraintStart_toEndOf="@+id/start"
             app:layout_constraintTop_toTopOf="@+id/start" />
 
